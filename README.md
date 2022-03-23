@@ -1,6 +1,6 @@
-# DNA analyser
+# Gene analyser
 
-A small project to practice Golang and RabbitMQ by doing DNA analysis.
+A small project to practice Golang and RabbitMQ by doing Gene DNA analysis. Currently it calculates the CpG sites in the given gene. CpG sites are calculated with many different basepair lengths. The DNA of the gene is also added to the report as raw data.
 
 ## Usage
 
